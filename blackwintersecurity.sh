@@ -14,6 +14,9 @@ source ./installer/StegCracker.sh
 #-----Install RsaCtfTool---------------
 source ./installer/RsaCtfTool.sh
 
+#-----Install PwnTools-----------------
+source ./installer/PwnTools.sh
+
 #-----Install VeilEvasion--------------
 source ./installer/VeilEvasion.sh
 

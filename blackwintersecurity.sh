@@ -1,6 +1,7 @@
 #!/bin/bash
 
 RootDir="/blackwintersecurity"
+source ./banner.sh
 source ./init.sh
 source ./git_process.sh
 
@@ -14,5 +15,5 @@ source ./installer/StegCracker.sh
 source ./installer/RsaCtfTool.sh
 
 #-----Install VeilEvasion--------------
-#source ./installer/VeilEvasion.sh
+source ./installer/VeilEvasion.sh
 
